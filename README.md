@@ -1,6 +1,6 @@
-# NOME-DO-REPOSITORIO
+# Design Gráfico
 
-Repositório para Gestão do Conhecimento de NOME-DO-REPOSITORIO.
+Repositório para Gestão do Conhecimento de Design Gráfico.
 
 ## Fontes
  
@@ -16,7 +16,7 @@ O estudo de todas as fontes desse repositório permitiram o desenvolvimento das 
 
 ### Competência Acadêmicas | Categoria | Descrição breve da competência
 
-- **Código**: CPT-A-**SIGLA-NOME-DO-REPOSITORIO**-XXX-A001
+- **Código**: CPT-C-DGRAF-XXX-A001
 
 |**Verbo**|**Objeto**|**Condição**|**Critério**|
 |:---|:---|:---|:---|
